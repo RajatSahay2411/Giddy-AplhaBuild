@@ -4,3 +4,5 @@ This is the first Commit
 Created a branch.
 
 Second commit to the branch and then to the master.
+
+Now, first the changes have been done in the master.
