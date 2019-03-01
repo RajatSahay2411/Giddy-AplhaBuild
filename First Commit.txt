@@ -2,3 +2,5 @@ Hello World!
 This is the first Commit
 
 Created a branch.
+
+Second commit to the branch and then to the master.
